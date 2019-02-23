@@ -6,7 +6,19 @@ namespace BilletLibrary
 {
     public abstract class Køretøj
     {
-        public Køretøj(string nummerplade, DateTime dato)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Køretøj"/> class.
+        /// </summary>
+        /// <param name="nummerplade">
+        /// Køretøjets nummerplade
+        /// </param>
+        /// <param name="dato">
+        /// Datoen for billeten
+        /// </param>
+        /// <param name="brobizz">
+        /// Om der er brugt brobizz
+        /// </param>
+        protected Køretøj(string nummerplade, DateTime dato, bool brobizz)
         {
             if (nummerplade.Length > 7)
             {
@@ -14,7 +26,14 @@ namespace BilletLibrary
             }
             Nummerplade = nummerplade;
             Dato = dato;
+            Brobizz = brobizz;
         }
+
+        /// <summary>
+        /// Gets or sets om der er brugt brobizz
+        /// </summary>
+        public bool Brobizz { get; set; }
+
         /// <summary>
         /// Gets or sets nummerpladen
         /// </summary>
@@ -41,7 +60,14 @@ namespace BilletLibrary
         /// <returns>Pris</returns>
         public decimal Pris()
         {
-            return KøretøjPris;
+            if (Brobizz)
+            {
+                return KøretøjPris - (KøretøjPris * Convert.ToDecimal(0.05));
+            }
+            else
+            {
+                return KøretøjPris;
+            }
         }
 
         /// <summary>

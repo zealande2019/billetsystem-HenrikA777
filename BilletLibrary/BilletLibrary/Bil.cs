@@ -11,8 +11,11 @@ namespace BilletLibrary
         /// </param>
         /// <param name="dato">Datoen for billeten
         /// </param>
-        public Bil(string nummerplade, DateTime dato)
-        :base(nummerplade, dato)
+        /// <param name="brobizz">
+        /// Om der er brugt brobizz
+        /// </param>
+        public Bil(string nummerplade, DateTime dato, bool brobizz)
+        :base(nummerplade, dato, brobizz)
         {
         }
 
