@@ -1,0 +1,17 @@
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\BilletTestProject.deps.json
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\BilletTestProject.runtimeconfig.json
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\BilletTestProject.runtimeconfig.dev.json
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\BilletTestProject.dll
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\BilletTestProject.pdb
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\bin\Debug\netcoreapp2.0\BilletLibrary.pdb
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\obj\Debug\netcoreapp2.0\BilletTestProject.csprojAssemblyReference.cache
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\obj\Debug\netcoreapp2.0\BilletTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\obj\Debug\netcoreapp2.0\BilletTestProject.AssemblyInfoInputs.cache
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\obj\Debug\netcoreapp2.0\BilletTestProject.AssemblyInfo.cs
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\obj\Debug\netcoreapp2.0\BilletTestProject.csproj.CopyComplete
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\obj\Debug\netcoreapp2.0\BilletTestProject.dll
+C:\Users\Henri\Documents\billetsystem-HenrikA777\BilletLibrary\BilletTestProject\obj\Debug\netcoreapp2.0\BilletTestProject.pdb
