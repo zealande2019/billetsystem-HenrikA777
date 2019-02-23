@@ -73,5 +73,10 @@ namespace BilletTestProject
 
             Assert.AreEqual(mc.Type(), "MC");
         }
+        [TestMethod]
+        public void NummerpladeTooLong_Exception()
+        {
+            Assert.ThrowsException<ArgumentException>((() => new MC("12345678", DateTime.Today)));
+        }
     }
 }

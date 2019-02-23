@@ -8,6 +8,10 @@ namespace BilletLibrary
     {
         public Køretøj(string nummerplade, DateTime dato)
         {
+            if (nummerplade.Length > 7)
+            {
+                throw new ArgumentException();
+            }
             Nummerplade = nummerplade;
             Dato = dato;
         }
