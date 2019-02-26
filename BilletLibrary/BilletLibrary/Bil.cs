@@ -20,25 +20,28 @@ namespace BilletLibrary
         }
 
         /// <summary>
-        /// Gets typen af køretøj
+        /// Prisen for billeten
         /// </summary>
-        protected override string KøretøjType
+        /// <returns>Pris</returns>
+        public override decimal Pris()
         {
-            get
+            if (Brobizz)
             {
-                return "Bil";
+                return 240 - Convert.ToDecimal(240 * 0.05);
+            }
+            else
+            {
+                return 240;
             }
         }
 
         /// <summary>
-        /// Gets prisen for køretøjet
+        /// Typen af køretøj
         /// </summary>
-        protected override decimal KøretøjPris
+        /// <returns>Typen af køretøj</returns>
+        public override string Type()
         {
-            get
-            {
-                return 240;
-            }
+            return "Bil";
         }
     }
 }

@@ -16,15 +16,17 @@
             Om der er brugt brobizz
             </param>
         </member>
-        <member name="P:BilletLibrary.Bil.KøretøjType">
+        <member name="M:BilletLibrary.Bil.Pris">
             <summary>
-            Gets typen af køretøj
+            Prisen for billeten
             </summary>
+            <returns>Pris</returns>
         </member>
-        <member name="P:BilletLibrary.Bil.KøretøjPris">
+        <member name="M:BilletLibrary.Bil.Type">
             <summary>
-            Gets prisen for køretøjet
+            Typen af køretøj
             </summary>
+            <returns>Typen af køretøj</returns>
         </member>
         <member name="M:BilletLibrary.Køretøj.#ctor(System.String,System.DateTime,System.Boolean)">
             <summary>
@@ -55,16 +57,6 @@
             Gets or sets datoen for billeten
             </summary>
         </member>
-        <member name="P:BilletLibrary.Køretøj.KøretøjType">
-            <summary>
-            Gets typen af køretøj
-            </summary>
-        </member>
-        <member name="P:BilletLibrary.Køretøj.KøretøjPris">
-            <summary>
-            Gets prisen for køretøjet
-            </summary>
-        </member>
         <member name="M:BilletLibrary.Køretøj.Pris">
             <summary>
             Prisen for billeten
@@ -89,15 +81,17 @@
             Om der er brugt brobizz
             </param>
         </member>
-        <member name="P:BilletLibrary.MC.KøretøjType">
+        <member name="M:BilletLibrary.MC.Pris">
             <summary>
-            Gets typen af køretøj
+            Prisen for billeten
             </summary>
+            <returns>Pris</returns>
         </member>
-        <member name="P:BilletLibrary.MC.KøretøjPris">
+        <member name="M:BilletLibrary.MC.Type">
             <summary>
-            Gets prisen for køretøjet
+            Typen af køretøj
             </summary>
+            <returns>Typen af køretøj</returns>
         </member>
     </members>
 </doc>

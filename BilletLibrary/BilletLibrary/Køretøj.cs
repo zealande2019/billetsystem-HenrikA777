@@ -45,38 +45,16 @@ namespace BilletLibrary
         public DateTime Dato { get; set; }
 
         /// <summary>
-        /// Gets typen af køretøj
-        /// </summary>
-        protected abstract string KøretøjType { get; }
-
-        /// <summary>
-        /// Gets prisen for køretøjet
-        /// </summary>
-        protected abstract decimal KøretøjPris { get; }
-
-        /// <summary>
         /// Prisen for billeten
         /// </summary>
         /// <returns>Pris</returns>
-        public decimal Pris()
-        {
-            if (Brobizz)
-            {
-                return KøretøjPris - (KøretøjPris * Convert.ToDecimal(0.05));
-            }
-            else
-            {
-                return KøretøjPris;
-            }
-        }
+        public abstract decimal Pris();
 
         /// <summary>
         /// Typen af køretøj
         /// </summary>
         /// <returns>Typen af køretøj</returns>
-        public string Type()
-        {
-            return KøretøjType;
-        }
+        public abstract string Type();
+
     }
 }
