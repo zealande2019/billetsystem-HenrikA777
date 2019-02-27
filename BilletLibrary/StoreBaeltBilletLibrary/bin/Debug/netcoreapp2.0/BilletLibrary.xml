@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.Bil.#ctor(System.String,System.DateTime,System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BilletLibrary.Bil"/> class.
+            </summary>
+            <param name="nummerplade">Køretøjets nummerplade
+            </param>
+            <param name="dato">Datoen for billeten
+            </param>
+            <param name="brobizz">
+            Om der er brugt brobizz
+            </param>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Prisen for billeten
+            </summary>
+            <returns>Pris</returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Type">
+            <summary>
+            Typen af køretøj
+            </summary>
+            <returns>Typen af køretøj</returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.#ctor(System.String,System.DateTime,System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BilletLibrary.Køretøj"/> class.
+            </summary>
+            <param name="nummerplade">
+            Køretøjets nummerplade
+            </param>
+            <param name="dato">
+            Datoen for billeten
+            </param>
+            <param name="brobizz">
+            Om der er brugt brobizz
+            </param>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Brobizz">
+            <summary>
+            Gets or sets om der er brugt brobizz
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Nummerplade">
+            <summary>
+            Gets or sets nummerpladen
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Dato">
+            <summary>
+            Gets or sets datoen for billeten
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Pris">
+            <summary>
+            Prisen for billeten
+            </summary>
+            <returns>Pris</returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Type">
+            <summary>
+            Typen af køretøj
+            </summary>
+            <returns>Typen af køretøj</returns>
+        </member>
+        <member name="M:BilletLibrary.MC.#ctor(System.String,System.DateTime,System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BilletLibrary.MC"/> class.
+            </summary>
+            <param name="nummerplade">Køretøjets nummerplade
+            </param>
+            <param name="dato">Datoen for billeten
+            </param>
+            <param name="brobizz">
+            Om der er brugt brobizz
+            </param>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris">
+            <summary>
+            Prisen for billeten
+            </summary>
+            <returns>Pris</returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Type">
+            <summary>
+            Typen af køretøj
+            </summary>
+            <returns>Typen af køretøj</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\bin\Debug\netcoreapp2.1\OeresundBilletLibrary.deps.json
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\bin\Debug\netcoreapp2.1\OeresundBilletLibrary.dll
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\bin\Debug\netcoreapp2.1\OeresundBilletLibrary.pdb
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\obj\Debug\netcoreapp2.1\OeresundBilletLibrary.csprojAssemblyReference.cache
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\obj\Debug\netcoreapp2.1\OeresundBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\obj\Debug\netcoreapp2.1\OeresundBilletLibrary.AssemblyInfoInputs.cache
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\obj\Debug\netcoreapp2.1\OeresundBilletLibrary.AssemblyInfo.cs
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\obj\Debug\netcoreapp2.1\OeresundBilletLibrary.csproj.CopyComplete
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\obj\Debug\netcoreapp2.1\OeresundBilletLibrary.dll
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\OeresundBilletLibrary\obj\Debug\netcoreapp2.1\OeresundBilletLibrary.pdb

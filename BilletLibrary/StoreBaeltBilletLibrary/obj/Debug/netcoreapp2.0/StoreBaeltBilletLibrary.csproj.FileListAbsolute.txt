@@ -1,0 +1,12 @@
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.deps.json
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.dll
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.pdb
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.xml
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csprojAssemblyReference.cache
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.dll
+C:\Users\null\Source\Repos\billetsystem-HenrikA777\BilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.pdb
