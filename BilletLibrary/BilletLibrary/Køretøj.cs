@@ -6,6 +6,8 @@ namespace BilletLibrary
 {
     public abstract class Køretøj
     {
+        private string _nummerplade;
+
         /// <summary>
         /// Initializes a new instance of the <see cref="Køretøj"/> class.
         /// </summary>
@@ -20,10 +22,7 @@ namespace BilletLibrary
         /// </param>
         protected Køretøj(string nummerplade, DateTime dato, bool brobizz)
         {
-            if (nummerplade.Length > 7)
-            {
-                throw new ArgumentException();
-            }
+            
             Nummerplade = nummerplade;
             Dato = dato;
             Brobizz = brobizz;
@@ -37,7 +36,19 @@ namespace BilletLibrary
         /// <summary>
         /// Gets or sets nummerpladen
         /// </summary>
-        public string Nummerplade { get; set; }
+        public string Nummerplade
+        {
+            get => _nummerplade;
+            set
+            {
+                if (value.Length > 7)
+                {
+                    throw new ArgumentException();
+                }
+
+                _nummerplade = value;
+            }
+        }
 
         /// <summary>
         /// Gets or sets datoen for billeten
